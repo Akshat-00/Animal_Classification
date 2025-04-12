@@ -17,6 +17,8 @@ The dataset is organized into:
 
 ---
 
+Note: Please make sure to update the path properly in order to achieve correct results.
+
 ## 💡 Key Objectives
 
 - Train a CNN to classify animal images accurately.
@@ -45,44 +47,6 @@ The dataset is organized into:
 | Brightened    | Brightness factors: 0.2, 0.5, 1.5, 1.8   |
 | Rotated       | 90°, 180°                                |
 | Noise         | Gaussian, Salt & Pepper, Speckle         |
-
----
-
-## Transformed Validation Folder Structure
-transformed_val/
-│
-├── blurred_9x9/
-│   ├── cat/
-│   ├── dog/
-│   └── wild/
-│
-├── blurred_13x13/
-├── blurred_17x17/
-├── blurred_21x21/
-│   ├── cat/
-│   ├── dog/
-│   └── wild/
-│
-├── brightened_0.2/
-├── brightened_0.5/
-├── brightened_1.5/
-├── brightened_1.8/
-│   ├── cat/
-│   ├── dog/
-│   └── wild/
-│
-├── rotated_90/
-├── rotated_180/
-│   ├── cat/
-│   ├── dog/
-│   └── wild/
-│
-├── noise_gaussian/
-├── noise_saltpepper/
-├── noise_speckle/
-│   ├── cat/
-│   ├── dog/
-│   └── wild/
 
 ---
 
