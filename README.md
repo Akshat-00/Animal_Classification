@@ -62,6 +62,8 @@ Visualizations include:
 - 🎯 Accuracy comparison between original vs average transformed performance
 - 🖼️ Random predictions per transformation for each category
 
+The Images folder contains the obtained visualizations & some samples from each category.
+
 ---
 
 
